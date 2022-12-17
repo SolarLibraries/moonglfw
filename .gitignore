@@ -11,3 +11,7 @@ local/
 tutorials/
 src/TODO
 src/DIFF
+/luarocks
+/lua
+/lua_modules
+/.luarocks
